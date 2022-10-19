@@ -1,22 +1,22 @@
 //EXERCICIO 1
 
-/*const nome = "Lucas Breia"
-let idade = 24
+const nome 
+let idade 
 
-prompt("Qual é o seu nome?")
-prompt("Qual é a sua idade?")
+console.log(typeof nome);
+console.log(typeof idade);
 
-console.log(nome)
-console.log(idade)
+//o tipo das variáveis nome e idade foi undefined, pois não há um valor definido
 
-console.log(typeof nome)
-console.log(typeof idade)
+nome = prompt("Qual é o seu nome?")
+idade = Number (prompt("Qual é a sua idade?"))
 
-//o tipo da variável nome foi undefined, pois não há um valor definido
+console.log(typeof nome);
+console.log(typeof idade);
 
 //as variaveis agora apresentam os nomes de: string e number.
 
-console.log("Olá", nome, "você tem", idade, "anos.")*/
+console.log("Olá", nome, "você tem", idade, "anos.")
 
 //EXERCICIO 2
 
